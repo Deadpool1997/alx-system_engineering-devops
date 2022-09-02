@@ -1,1 +1,5 @@
-where am i
+Shell basics command
+
+
+
+
